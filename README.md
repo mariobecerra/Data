@@ -1,2 +1,2 @@
 # Data
-Small datasets that can be used
+Small datasets that can be used for analysis.
