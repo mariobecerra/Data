@@ -6,3 +6,5 @@ Small datasets that can be used for analysis.
 
 * [Zip](./zip). Originally downloaded from [here](https://web.stanford.edu/~hastie/ElemStatLearn/datasets/). Normalized handwritten digits, automatically scanned from envelopes by the U.S. Postal Service.
 
+* [Iowa Housing](./iowa_housing). Originally downloaded from [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/). Dataset with 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa.
+
